@@ -1,0 +1,19 @@
+/*este ejemplo es para el combinador adyacente o cercado h2 + p {
+    color: red
+} */
+/* esta linea de codigo es para el combinador general o hermano h2 ~ p {
+    color:red
+} */
+
+/*   esta linea de codigo es para el combinador child, y se le asi. todo hijo que sea menor que el padre 
+div > p { 
+    color: green;
+} */
+
+/* esta linea de codigo es para el combinador desendiente*/
+
+
+
+div p {
+    color: green;
+}
