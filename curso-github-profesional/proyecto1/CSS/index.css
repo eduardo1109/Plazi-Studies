@@ -1,3 +1,4 @@
+
 body{
     color:#333; 
     text-align:center;
@@ -5,6 +6,11 @@ body{
     font-size: 16px;
     margin: 0;
     padding: 0;    
+}
+#cabecera{
+    background-color: blue;
+    color:#DDD;
+    font-weight: bold ;
 }
 #container{
     width: 70%;
